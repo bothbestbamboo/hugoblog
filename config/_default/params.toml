@@ -1,6 +1,6 @@
 mainSections   = ["post"]
 rssFullContent = true
-favicon        = "img/avatar.png"
+favicon        = "https://www.bambooindustry.com/favicon.ico"
 
 [footer]
     since = 2020
@@ -8,12 +8,12 @@ favicon        = "img/avatar.png"
 [sidebar]
     emoji    = "✏️"
     subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-    avatar   = "img/avatar.png"
+    avatar   = "https://www.bambooindustry.com/img/logo2026.png"
 
 [article]
     [article.license]
         enabled = true
-        default = "Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
+        default = "Licensed under [CC BY-NC-SA 4.0](https://www.bambooindustry.com)"
 
 [widgets]
     homepage = [
