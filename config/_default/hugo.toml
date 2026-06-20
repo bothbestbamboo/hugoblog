@@ -1,5 +1,5 @@
 baseURL                = "/"
-locale                 = "zh"
+locale                 = "en"
 title                  = "Bothbest Bamboo Flooring"
 # Theme i18n support
 # See i18n folder for available languages

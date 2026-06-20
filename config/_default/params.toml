@@ -6,14 +6,14 @@ favicon        = "https://www.bambooindustry.com/favicon.ico"
     since = 2020
 
 [sidebar]
-    emoji    = "✏️"
+    # emoji    = "✏️"
     subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     avatar   = "https://www.bambooindustry.com/img/logo2026.png"
 
 [article]
     [article.license]
         enabled = true
-        default = "Licensed under [CC BY-NC-SA 4.0](https://www.bambooindustry.com)"
+        default = "Licensed under [Bothbest Bamboo](https://www.bambooindustry.com)"
 
 [widgets]
     homepage = [

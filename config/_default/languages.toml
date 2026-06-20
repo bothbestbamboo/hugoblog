@@ -1,31 +1,31 @@
 [en]
     label  = "English"
-    title  = "Hugo Theme Stack"
+    title  = "Bothbest Bamboo Flooring"
     weight = 1
 
     [en.params.sidebar]
-        subtitle = "Card-style Hugo theme designed for bloggers"
+        subtitle = "China bamboo flooring supplier since 2001"
 
 [zh]
     label  = "简体中文"
-    title  = "Hugo 主题 Stack"
+    title  = "Bothbest Bamboo Flooring"
     weight = 2
 
     [zh.params.sidebar]
-        subtitle = "为博客设计的卡片式 Hugo 主题"
+        subtitle = "China bamboo flooring supplier since 2001"
 
 [zh-hant-tw]
     label  = "正體中文"
-    title  = "Hugo 主題 Stack"
+    title  = "Bothbest Bamboo Flooring"
     weight = 3
 
     [zh-hant-tw.params.sidebar]
-        subtitle = "為博客設計的卡片式 Hugo 主題"
+        subtitle = "China bamboo flooring supplier since 2001"
 
 [ja]
     label  = "日本語"
-    title  = "Hugo Theme Stack"
+    title  = "Bothbest Bamboo Flooring"
     weight = 4
 
     [ja.params.sidebar]
-        subtitle = "ブログ用のカードスタイルの Hugo テーマ"
+        subtitle = "China bamboo flooring supplier since 2001"
