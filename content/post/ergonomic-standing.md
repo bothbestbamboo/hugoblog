@@ -2,6 +2,8 @@
 date = '2026-06-20T20:25:45+08:00'
 title = 'Hidden Fastener Systems for Exterior Bamboo Decking: Avoiding Board Splitting'
 description = "The architectural shift toward clean, uninterrupted outdoor floor surfaces has fundamentally changed how residential and commercial decks are designed. Property owners and builders increasingly reject the traditional look of visible face screws, which can disrupt the natural grain patterns of premium materials."
+tags = ['bamboo-decking']
+categories = ['bamboo']
 +++
 !['bamboo decking'](https://img.bambooflooring.net/file/1782517614296_1-1PR3155023559.jpg)
 
