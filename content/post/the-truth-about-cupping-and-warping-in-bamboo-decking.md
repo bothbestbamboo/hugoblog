@@ -2,6 +2,8 @@
 date = '2026-06-27T14:39:34+08:00'
 title = 'The Truth About Cupping and Warping in Solid Bamboo Decking Boards'
 description = "To preserve the long-term beauty and structural soundness of an outdoor installation, it is necessary to examine the underlying mechanisms of distortion, the environmental imbalances that trigger physical changes, and the precise preventive and corrective actions required to keep a deck completely stable."
+tags = ['bamboo-decking']
+categories = ['bamboo']
 +++
 
 !['bamboo decking'](https://img.bambooflooring.net/file/1782517607140_1-1PR315503U01.jpg)
